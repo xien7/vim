@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/xien/code/lm-dockerfiles/lm-centos6-santaba'
+let g:netrw_dirhist_2='/Users/xien/code/lm-dockerfiles/lm-centos6-mysql-percona5.6-lat'
+let g:netrw_dirhist_3='/Users/xien/code/lm-dockerfiles/lm-centos6-kafka'
+let g:netrw_dirhist_4='/Users/xien/code/lm-dockerfiles/lm-centos6-zookeeper'
+let g:netrw_dirhist_5='/Users/xien/code/lm-dockerfiles/lm-centos6-tsdb'
+let g:netrw_dirhist_6='/Users/xien/code/lm-dockerfiles/lm-centos6-tsdb/lm_tsdb'
+let g:netrw_dirhist_7='/Users/xien/code/lm-dockerfiles/lm-centos6-zookeeper'
+let g:netrw_dirhist_8='/Users/xien/github/xien7.github.io/source/_posts'
